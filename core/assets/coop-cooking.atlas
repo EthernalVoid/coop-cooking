@@ -1,0 +1,202 @@
+
+coop-cooking.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_acting_left
+  rotate: false
+  xy: 86, 47
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_acting_left
+  rotate: false
+  xy: 128, 89
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_acting_left
+  rotate: false
+  xy: 170, 131
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_acting_left
+  rotate: false
+  xy: 212, 173
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+player_acting_right
+  rotate: false
+  xy: 2, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_acting_right
+  rotate: false
+  xy: 44, 88
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_acting_right
+  rotate: false
+  xy: 86, 131
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_acting_right
+  rotate: false
+  xy: 128, 173
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+player_idle
+  rotate: false
+  xy: 44, 46
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_idle
+  rotate: false
+  xy: 170, 89
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_idle
+  rotate: false
+  xy: 128, 5
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_idle
+  rotate: false
+  xy: 170, 47
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+player_walk_down
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_walk_down
+  rotate: false
+  xy: 86, 5
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_walk_down
+  rotate: false
+  xy: 128, 47
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+player_walk_down
+  rotate: false
+  xy: 170, 5
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_walk_left
+  rotate: false
+  xy: 44, 130
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_walk_left
+  rotate: false
+  xy: 86, 173
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_walk_left
+  rotate: false
+  xy: 212, 131
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+player_walk_left
+  rotate: false
+  xy: 212, 89
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_walk_right
+  rotate: false
+  xy: 2, 172
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: 3
+player_walk_right
+  rotate: false
+  xy: 2, 129
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: 4
+player_walk_right
+  rotate: false
+  xy: 44, 172
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: 1
+player_walk_right
+  rotate: false
+  xy: 2, 86
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: 2
+player_walk_up
+  rotate: false
+  xy: 86, 89
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+player_walk_up
+  rotate: false
+  xy: 128, 131
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+player_walk_up
+  rotate: false
+  xy: 170, 173
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+player_walk_up
+  rotate: false
+  xy: 44, 4
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="12" height="6" tilewidth="50" tileheight="50" infinite="0" nextobjectid="30">
+ <imagelayer name="bg">
+  <image source="bg.png" width="600" height="300"/>
+ </imagelayer>
+ <objectgroup name="table">
+  <object id="1" x="0" y="0" width="50" height="300"/>
+  <object id="3" x="0" y="0" width="600" height="50"/>
+  <object id="4" x="550" y="0" width="50" height="300"/>
+  <object id="5" x="500" y="187.5" width="100" height="62.5"/>
+  <object id="8" x="150" y="87.5" width="300" height="112.5"/>
+  <object id="28" x="0" y="300" width="600" height="50"/>
+ </objectgroup>
+ <objectgroup name="kitchenware">
+  <object id="12" type="dispenser" x="0" y="200" width="50" height="50">
+   <properties>
+    <property name="material" value="lettuce"/>
+   </properties>
+  </object>
+  <object id="13" type="dispenser" x="0" y="150" width="50" height="50">
+   <properties>
+    <property name="material" value="beef"/>
+   </properties>
+  </object>
+  <object id="14" type="dispenser" x="0" y="100" width="50" height="50">
+   <properties>
+    <property name="material" value="potato"/>
+   </properties>
+  </object>
+  <object id="15" type="chop" x="200" y="150" width="50" height="50"/>
+  <object id="17" type="stove" x="200" y="0" width="50" height="50"/>
+  <object id="21" type="mixer" x="535.5" y="112.5" width="25" height="25"/>
+  <object id="23" type="goal" x="500" y="187.5" width="50" height="62.5"/>
+  <object id="24" type="mixer" x="535.5" y="162.5" width="25" height="25"/>
+  <object id="25" type="mixer" x="412.5" y="162.5" width="25" height="25"/>
+  <object id="26" type="mixer" x="412.5" y="112.5" width="25" height="25"/>
+ </objectgroup>
+ <objectgroup name="info">
+  <object id="27" name="spawn" x="100" y="250" width="100" height="50"/>
+ </objectgroup>
+ <layer name="tile" width="12" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer name="GroundObjects" width="12" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer name="Objects" width="12" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer name="Deco" width="12" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer name="Misc" width="12" height="6">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+</map>

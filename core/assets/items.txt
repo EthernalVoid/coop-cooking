@@ -1,0 +1,12 @@
+beef:?chop=groundedBeef;?stove=searedBeef
+groundedBeef:?stove=meatball
+steak
+searedBeef:mashedPotato=steak
+potato:?chop=slicedPotato;?stove=bakedPotato
+slicedPotato:?stove=potatoChip
+bakedPotato:?chop=mashedPotato
+lettuce:mashedPotato=salad
+meatball
+mashedPotato
+potatoChip
+salad
